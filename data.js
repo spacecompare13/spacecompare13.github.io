@@ -89,11 +89,17 @@ const Space = {
 			vy_canis_majoris:   { name: "VY Canis Majoris",   diameter: 1976640000, color: "#ffa600", type: "red-supergiant-star" },	
 			betelgeuse: { name: "Betelgeuse", diameter: 1234171800, color: "#fca653", type: "red-supergiant-star", aka: "α Orionis" },
 			v382_carinae: { name: "V382 Carinae", diameter: 996672000, color: "#ffefba", type: "red-supergiant-star", aka: "X Carinae" },
+			theta_muscae:    { name: "θ Muscae",    diameter:  951715731, color: "#00d9ff", type: "blue-white-supergiant-star",
 			antares:    { name: "Antares",    diameter:  946152000, color: "#fcaf29", type: "red-supergiant-star", aka: "α Scorpii" },
+			mira_a:   { name: "Mira A",   diameter:   559584000, color: "#ff501a", type: "red-giant-star", aka: "Stella Mira" },
+			pistol_star:    { name: "Pistol Star",    diameter:  428736000, color: "#89e4ff", type: "blue-white-supergiant-star", aka: "V4647 Sagittarii" },
 			rigel_a:    { name: "Rigel A",    diameter:  109781460, color: "#bbf1ff", type: "blue-white-supergiant-star", aka: "β Orionis" },
+			canopus:    { name: "Canopus",    diameter:  102033600, color: "#fff7e6", type: "blue-white-supergiant-star", aka: "α Carinae" },
 			aldebaran:  { name: "Aldebaran",  diameter:   61402482, color: "#fc8d2e", type: "orange-giant-star", aka: "α Tauri" },
+			r136a1:  { name: "R136a1",  diameter:   59438400, color: "#2eddfc", type: "blue-white-supergiant-star",
 			arcturus:   { name: "Arcturus",   diameter:   35341560, color: "#df822d", type: "red-giant-star", aka: "α Boötis" },
 			pollux:     { name: "Pollux",     diameter:   12244320, color: "#eabf80", type: "orange-giant-star", aka: "β Geminorum" },
+			vega:     { name: "Vega",     diameter:   3794592, color: "#80e3ea", type: "am-star", aka: "α Lyrae" },
 		}
 	},
 };
