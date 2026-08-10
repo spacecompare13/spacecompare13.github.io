@@ -86,7 +86,9 @@ const Space = {
 		objects: {
 			stephenson_2_18:   { name: "Stephenson 2-18",   diameter: 2992800000, color: "#ff7b00", type: "red-supergiant-star" },
 			uy_scuti:   { name: "UY Scuti",   diameter: 2376511200, color: "#ffe2c8", type: "red-supergiant-star" },
+			vy_canis_majoris:   { name: "VY Canis Majoris",   diameter: 1976640000, color: "#ffa600", type: "red-supergiant-star" },	
 			betelgeuse: { name: "Betelgeuse", diameter: 1234171800, color: "#fca653", type: "red-supergiant-star", aka: "α Orionis" },
+			v382_carinae: { name: "V382 Carinae", diameter: 996672000, color: "#ffefba", type: "red-supergiant-star", aka: "X Carinae" },
 			antares:    { name: "Antares",    diameter:  946152000, color: "#fcaf29", type: "red-supergiant-star", aka: "α Scorpii" },
 			rigel_a:    { name: "Rigel A",    diameter:  109781460, color: "#bbf1ff", type: "blue-white-supergiant-star", aka: "β Orionis" },
 			aldebaran:  { name: "Aldebaran",  diameter:   61402482, color: "#fc8d2e", type: "orange-giant-star", aka: "α Tauri" },
