@@ -89,12 +89,9 @@ const Space = {
 			vy_canis_majoris:   { name: "VY Canis Majoris",   diameter: 1976640000, color: "#ff7700", type: "red-supergiant-star" },
 			betelgeuse: { name: "Betelgeuse", diameter: 1234171800, color: "#fca653", type: "red-supergiant-star", aka: "α Orionis" },
 			v382_carinae: { name: "V382 Carinae", diameter: 996672000, color: "#ffefba", type: "red-supergiant-star", aka: "X Carinae" },
-			theta_muscae:    { name: "Theta Muscae",    diameter:  951715731, color: "#7797ff", type: "blue-white-supergiant-star",
 			antares:    { name: "Antares",    diameter:  946152000, color: "#fcaf29", type: "red-supergiant-star", aka: "α Scorpii" },
-			pistol_star:    { name: "Pistol Star",    diameter:  428736000, color: "#c1e7ea", type: "blue-white-supergiant-star",
 			rigel_a:    { name: "Rigel A",    diameter:  109781460, color: "#bbf1ff", type: "blue-white-supergiant-star", aka: "β Orionis" },
 			aldebaran:  { name: "Aldebaran",  diameter:   61402482, color: "#fc8d2e", type: "orange-giant-star", aka: "α Tauri" },
-			r136a1:    { name: "R136a1",    diameter:  59438400, color: "#d5dff5", type: "blue-white-supergiant-star",
 			arcturus:   { name: "Arcturus",   diameter:   35341560, color: "#df822d", type: "red-giant-star", aka: "α Boötis" },
 			pollux:     { name: "Pollux",     diameter:   12244320, color: "#eabf80", type: "orange-giant-star", aka: "β Geminorum" },
 		}
