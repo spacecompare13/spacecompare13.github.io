@@ -92,7 +92,7 @@ const Space = {
 			theta_muscae:    { name: "θ Muscae",    diameter:  951715731, color: "#00d9ff", type: "blue-white-supergiant-star",
 			antares:    { name: "Antares",    diameter:  946152000, color: "#fcaf29", type: "red-supergiant-star", aka: "α Scorpii" },
 			mira_a:   { name: "Mira A",   diameter:   559584000, color: "#ff501a", type: "red-giant-star", aka: "Stella Mira" },
-			pistol_star:    { name: "Pistol Star",    diameter:  428736000, color: "#89e4ff", type: "blue-white-supergiant-star", aka: "V4647 Sagittarii" },
+			pistol_star:    { name: "Pistol Star",    diameter:  428736000, color: "#89e4ff", type: "blue-white-supergiant-star",
 			rigel_a:    { name: "Rigel A",    diameter:  109781460, color: "#bbf1ff", type: "blue-white-supergiant-star", aka: "β Orionis" },
 			canopus:    { name: "Canopus",    diameter:  102033600, color: "#fff7e6", type: "blue-white-supergiant-star", aka: "α Carinae" },
 			aldebaran:  { name: "Aldebaran",  diameter:   61402482, color: "#fc8d2e", type: "orange-giant-star", aka: "α Tauri" },
