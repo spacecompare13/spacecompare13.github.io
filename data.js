@@ -22,7 +22,7 @@ const Space = {
 			messier_59:        { name: "Messier 59",      nbSolarMass:   270000000, color: "#000000", type: "black-hole" },
 			messier_81:        { name: "Messier 81",      nbSolarMass:    70000000, color: "#000000", type: "black-hole", aka: "Bode's Galaxy" },
 			sagittarius_astar: { name: "Sagittarius A*",  nbSolarMass:     4300000, color: "#000000", type: "black-hole", aka: "Sgr A*" },
-			hlx_1:             { name: "HLX-1",           nbSolarMass:       20000, color: "#000000", type: "black-hole",
+			hlx_1:             { name: "HLX-1",           nbSolarMass:       20000, color: "#000000", type: "black-hole", },
 		}
 	},
 	solarSystem: {
@@ -99,6 +99,7 @@ const Space = {
 			betelgeuse: { name: "Betelgeuse", diameter: 1234171800, color: "#fca653", type: "red-supergiant-star", aka: "α Orionis" },
 			v382_carinae: { name: "V382 Carinae", diameter: 996672000, color: "#ffefba", type: "red-supergiant-star", aka: "X Carinae" },
 			antares:    { name: "Antares",    diameter:  946152000, color: "#fcaf29", type: "red-supergiant-star", aka: "α Scorpii" },
+			pistol_star:    { name: "Pistol Star",    diameter:  428736000, color: "#70ecff", type: "blue-white-supergiant-star", aka: "V4647 Sagittarii" },
 			rigel_a:    { name: "Rigel A",    diameter:  109781460, color: "#bbf1ff", type: "blue-white-supergiant-star", aka: "β Orionis" },
 			aldebaran:  { name: "Aldebaran",  diameter:   61402482, color: "#fc8d2e", type: "orange-giant-star", aka: "α Tauri" },
 			arcturus:   { name: "Arcturus",   diameter:   35341560, color: "#df822d", type: "red-giant-star", aka: "α Boötis" },
