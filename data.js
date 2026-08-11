@@ -22,7 +22,7 @@ const Space = {
 			messier_59:        { name: "Messier 59",      nbSolarMass:   270000000, color: "#000000", type: "black-hole" },
 			messier_81:        { name: "Messier 81",      nbSolarMass:    70000000, color: "#000000", type: "black-hole", aka: "Bode's Galaxy" },
 			sagittarius_astar: { name: "Sagittarius A*",  nbSolarMass:     4300000, color: "#000000", type: "black-hole", aka: "Sgr A*" },
-			hlx_1: { name: "HLX-1",  nbSolarMass:     20000, color: "#000000", type: "black-hole",
+			hlx_1:             { name: "HLX-1",           nbSolarMass:       20000, color: "#000000", type: "black-hole",
 		}
 	},
 	solarSystem: {
