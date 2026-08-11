@@ -90,7 +90,6 @@ const Space = {
 			betelgeuse: { name: "Betelgeuse", diameter: 1234171800, color: "#fca653", type: "red-supergiant-star", aka: "α Orionis" },
 			v382_carinae: { name: "V382 Carinae", diameter: 996672000, color: "#ffefba", type: "red-supergiant-star", aka: "X Carinae" },
 			antares:    { name: "Antares",    diameter:  946152000, color: "#fcaf29", type: "red-supergiant-star", aka: "α Scorpii" },
-			pistol_star:    { name: "Pistol Star",    diameter:  428736000, color: "#c1e7e", type: "blue-white-supergiant-star",
 			rigel_a:    { name: "Rigel A",    diameter:  109781460, color: "#bbf1ff", type: "blue-white-supergiant-star", aka: "β Orionis" },
 			aldebaran:  { name: "Aldebaran",  diameter:   61402482, color: "#fc8d2e", type: "orange-giant-star", aka: "α Tauri" },
 			arcturus:   { name: "Arcturus",   diameter:   35341560, color: "#df822d", type: "red-giant-star", aka: "α Boötis" },
