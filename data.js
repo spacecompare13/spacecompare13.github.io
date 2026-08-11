@@ -81,6 +81,14 @@ const Space = {
 			sirius_b: { name: "Sirius B", diameter:   11688, color: "#d5dff5", type: "white-dwarf-star" },
 		}
 	},
+	hd100546System: {
+		name: "HD 100546 system",
+		objects: {
+			hd_100546: { name: "HD 100546", diameter: 2547360, color: "##bbf1ff", type: "am-star", aka: "KR Muscae" },
+			hd_100546b: { name: "HD 100546b", diameter: 969480, color: "#f7f7f7", type: "gaz-planet" },
+			hd_100546c: { name: "HD 100546c", diameter: 176874, color: "#f7f7f7", type: "gaz-planet" },
+		}
+	},
 	others: {
 		name: "Others",
 		objects: {
