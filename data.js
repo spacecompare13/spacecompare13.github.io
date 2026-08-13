@@ -90,20 +90,33 @@ const Space = {
 			hd_100546c: { name: "HD 100546c", diameter: 176874, color: "#f7f7f7", type: "gaz-planet" },
 		}
 	},
-	others: {
-		name: "Others",
+	named: {
+		name: "Named",
 		objects: {
-			stephenson_2_18:   { name: "Stephenson 2-18",   diameter: 2992800000, color: "#ff7b00", type: "red-supergiant-star" },
-			uy_scuti:   { name: "UY Scuti",   diameter: 2376511200, color: "#ffe2c8", type: "red-supergiant-star" },
-			vy_canis_majoris:   { name: "VY Canis Majoris",   diameter: 1976640000, color: "#ff7700", type: "red-supergiant-star" },
+			erakis: { name: "Erakis", diameter: 1752528000, color: "#ff2b2b", type: "red-supergiant-star", aka: "μ Cephei" },			
 			betelgeuse: { name: "Betelgeuse", diameter: 1234171800, color: "#fca653", type: "red-supergiant-star", aka: "α Orionis" },
-			v382_carinae: { name: "V382 Carinae", diameter: 996672000, color: "#ffefba", type: "red-supergiant-star", aka: "X Carinae" },
 			antares:    { name: "Antares",    diameter:  946152000, color: "#fcaf29", type: "red-supergiant-star", aka: "α Scorpii" },
 			pistol_star:    { name: "Pistol Star",    diameter:  428736000, color: "#70ecff", type: "blue-white-supergiant-star", aka: "V4647 Sagittarii" },
 			rigel_a:    { name: "Rigel A",    diameter:  109781460, color: "#bbf1ff", type: "blue-white-supergiant-star", aka: "β Orionis" },
 			aldebaran:  { name: "Aldebaran",  diameter:   61402482, color: "#fc8d2e", type: "orange-giant-star", aka: "α Tauri" },
 			arcturus:   { name: "Arcturus",   diameter:   35341560, color: "#df822d", type: "red-giant-star", aka: "α Boötis" },
 			pollux:     { name: "Pollux",     diameter:   12244320, color: "#eabf80", type: "orange-giant-star", aka: "β Geminorum" },
+			elnath:     { name: "Elnath",     diameter:   6667680, color: "#3ddfff", type: "am-star", aka: "β Tauri" },
+			vega:     { name: "Vega",     diameter:   3794592, color: "#85eaff", type: "am-star", aka: "α Lyrae" },
+		}
+	},
+		largest: {
+		name: "Largest",
+		objects: {
+            stephenson_2_18:   { name: "Stephenson 2-18",   diameter: 2992800000, color: "#ff7b00", type: "red-supergiant-star" },
+		    lggs_j41:   { name: "LGGS J004539.99+415404.1",   diameter: 2754972000, color: "#ff0000", type: "red-supergiant-star" },
+			msx_lmc_597:   { name: "MSX LMC 597",   diameter: 2618614800, color: "#ff0000", type: "red-supergiant-star" },
+			uy_scuti:   { name: "UY Scuti",   diameter: 2376511200, color: "#ffe2c8", type: "red-supergiant-star" },
+			nml_cygni:   { name: "NML Cygni",   diameter: 2268960000, color: "#ff3c00", type: "red-supergiant-star" },
+			woh_g64:   { name: "WOH G64",   diameter: 2143680000, color: "#ff7c00", type: "red-supergiant-star" },
+			rsgc1_f01:   { name: "RSGC1-F01",   diameter: 2129760000, color: "#ff7700", type: "red-supergiant-star" },
+			vy_canis_majoris:   { name: "VY Canis Majoris",   diameter: 1976640000, color: "#ff7700", type: "red-supergiant-star" },
+			v382_carinae: { name: "V382 Carinae", diameter: 996672000, color: "#ffefba", type: "red-supergiant-star", aka: "X Carinae" },
 		}
 	},
 };
